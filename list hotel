@@ -1,0 +1,73 @@
+# Hotel
+Hayuk.Bookingin
+<!DOCTYPE html>
+<html>
+<head>
+<title>Intan Hayuk.Booking</title>
+<link rel="stylesheet" type="text/css" href="videocss.css">
+<link rel="stylesheet" type="text/css" href="basic.css">
+</head>
+    
+<body>    
+
+    <div class="header">
+         <h1><img src="Logo.png" height="100px" width="200px"></h1>
+         <h4>Hayuk diBooking Yukk</h4>
+    </div>
+
+    <div class="topnav">
+        <a href="http://127.0.0.1:5500/HHomepage.html" style= "color: #ECECDA">MENU</a>
+    </div><br>
+    
+
+    <div class="floating-box" style="padding: 0%"><a href="http://127.0.0.1:5500/listhotel.html"><h1 style="text-align:center"><img src="sharing%20la%20hotel%20dijakarta.jpg" height="170px" width="170px"></h1></a>
+        <p style="text-align: center">Sharing la jakarta</p>    
+    </div>
+    
+    <div class="floating-box" style="padding: 0%"><a href="http://127.0.0.1:5500/raffles.html"><h1 style="text-align:center"><img src="aryaduta.jpg" height="170px" width="170px"></h1></a>
+        <p style="text-align: center">Raffles Jakarta</p>    
+    </div>
+    
+    <div class="floating-box" style="padding: 0%"><a href="http://127.0.0.1:5500/listhotel.html"><h1 style="text-align:center"><img src="ibis%20jakarta.jpg" height="170px" width="170px"></h1></a>
+        <p style="text-align: center">Ibis jakarta</p>    
+    </div>
+    
+    <div class="floating-box" style="padding: 0%"><a href="http://127.0.0.1:5500/listhotel.html"><h1 style="text-align:center"><img src="the%20acacia%20hotel%20dijakarta.jpg" height="170px" width="170px"></h1></a>
+        <p style="text-align: center">Acacia jakarta</p>    
+    </div>
+    
+    <div class="floating-box" style="padding: 0%"><a href="http://127.0.0.1:5500/listhotel.html"><h1 style="text-align:center"><img src="gh%20universal%20hotel%20bandung.jpg" height="170px" width="170px"></h1></a>
+        <p style="text-align: center">GH Universal bandung</p>    
+    </div>
+    
+    <div class="floating-box" style="padding: 0%"><a href="http://127.0.0.1:5500/listhotel.html"><h1 style="text-align:center"><img src="the%20jayakarta%20bandung.jpg" height="170px" width="170px"></h1></a>
+        <p style="text-align: center">Jayakarta Bandung</p>    
+    </div>
+    
+    <div class="floating-box" style="padding: 0%"><a href="http://127.0.0.1:5500/listhotel.html"><h1 style="text-align:center"><img src="padma%20hotel%20bandung.jpg" height="170px" width="170px"></h1></a>
+        <p style="text-align: center">Padma Bandung</p>    
+    </div>
+    
+    <div class="floating-box" style="padding: 0%"><a href="http://127.0.0.1:5500/listhotel.html"><h1 style="text-align:center"><img src="Grandia%20hotel%20bandung.jpg" height="170px" width="170px"></h1></a>
+        <p style="text-align: center">Grandia Bandung</p>    
+    </div>
+
+    <div class="floating-box" style="padding: 0%"><a href="http://127.0.0.1:5500/listhotel.html"><h1 style="text-align:center"><img src="malang1.jpg" height="170px" width="170px"></h1></a>
+        <p style="text-align: center">HARRIS Hotel Malang</p>
+    </div>
+
+    <div class="floating-box" style="padding: 0%"><a href="http://127.0.0.1:5500/listhotel.html"><h1 style="text-align:center"><img src="solo3.jpg" height="170px" width="170px"></h1></a>
+        <p style="text-align: center">De Solo Boutique Hotel Solo</p>    
+    </div>
+
+    <div class="floating-box" style="padding: 0%"><a href="http://127.0.0.1:5500/listhotel.html"><h1 style="text-align:center"><img src="solo2.jpg" height="170px" width="170px"></h1></a>
+        <p style="text-align: center">Grand Amira Hotel Solo</p>    
+    </div>
+
+    <div class="floating-box" style="padding: 0%"><a href="http://127.0.0.1:5500/listhotel.html"><h1 style="text-align:center"><img src="solo1.jpg" height="170px" width="170px"></h1></a>
+        <p style="text-align: center">The Alana Solo</p>    
+    </div>
+
+    
+</body>
+</html>
